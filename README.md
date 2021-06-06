@@ -3,8 +3,8 @@
 #   minimizar o custo da adubação com base nos custo de cada 
 #   fertilizante que tem suas definições e quantidades abaixo
 #   sempre atento a demanda de cada necessidade
-#        Projeto analisado unicamente perante custos  de N-P-K
-#        As quantidades foram ajustadas para a produção de milho 
+#   Projeto analisado unicamente perante custos  de N-P-K
+#   As quantidades foram ajustadas para a produção de milho 
 #   grão mediante valores esperados de produtividade e inseridos na solicitação
 '''
 
