@@ -2,8 +2,6 @@
 """
 Created on Sat Jul 18 14:49:11 2020
 
-@author: Thiago 
-"""
 ''''
 #   minimizar o custo da adubação com base nos custo de cada 
 #   fertilizante que tem suas definições e quantidades abaixo
